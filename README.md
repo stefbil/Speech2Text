@@ -13,7 +13,7 @@ Before running the code, make sure you have the following dependencies installed
 - Gradio
 
 You can install the required Python packages using pip:
-```pip install torch transformers datasets gradio```
+```pip install requirements.txt```
 
 ## Usage
 
