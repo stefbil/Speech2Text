@@ -44,8 +44,3 @@ with demo:
     b1.click(speech_to_text, inputs=audio_file, outputs=text)
 
 demo.launch()
-
-
-
-# result = pipe("M:\Coding\speech2textenv\COSMOTE Grow Your Business -  Podcasts\Episode1.mp3")
-# print(result["text"])
